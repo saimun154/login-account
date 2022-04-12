@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+div{
+  margin: 0;
+  padding: 0;
+  background-color: rgba(0, 0, 255, 0.329);
+}
+strong{
+  display: block;
+  text-align: center;
+  font-size: 30px;
+}
+form{
+  padding: 50px;
+  width: 40%;
+  text-align: center;
+  margin: 0 auto;
+  background-color: rgba(18, 18, 48, 0.614);
+}
+#user{
+  margin: 0;
+  padding: 0;
+    font-size: 50px;
+    color: red;
+    display: block;
+  
+}
+.login-form{
+  color:white;
+}
+label{
+  font-size: larger;
+}
+#user-text{
+  margin:10px 5px;
+  padding: 10px;
+}
+#pass-text{
+ margin-left: 15px;
+  padding: 10px;
+}
+.bc{
+
+}
